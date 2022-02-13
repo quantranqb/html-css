@@ -1,0 +1,6 @@
+:root {
+    --non-color: violet;
+}
+ h1 {
+     color: var(--non-color);
+ }
